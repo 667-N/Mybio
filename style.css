@@ -76,7 +76,7 @@ background-repeat: no-repeat;
 background-position:center;
 animation: yourAnimation 2s ease 1s 1 normal forwards;
 pointer-events: none;}
-@keyframes yourAnimation { 0.0%{ opacity: 1;} 75%{ opacity: 1; } 100%{ opacity: 0;} 
+@keyframes yourAnimation { 0.0%{ opacity: 1;} 75%{ opacity: 1; } 100%{ opacity: 0;} }
 
 
 
